@@ -1,0 +1,177 @@
+*{
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+}
+.div_top{
+	width: 1899px;
+	height: 100px;
+	background-color: black;
+	opacity: 0.5;
+	position: relative;
+	top: 0px;
+	z-index: 10;
+}
+.div_top2{
+	width: 1899px;
+	height: 100px;
+	margin-top: -100px;
+	position: relative;
+	top: 0px;
+	z-index: 11;
+}
+.img_top{
+	margin-left: 250px;
+	margin-top: 15px;
+	float: left;
+}
+.p_1{
+	color: white;
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.p_2{
+	color: white;
+	float: left;
+	margin-top: 30px;
+	margin-left: -112px;
+}
+.top_ul{
+	margin-left: 150px;
+	float: left;
+}
+.top_ul li{
+	list-style: none;
+	width: 150px;
+	height: 50px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+}
+.top_ul li a{
+	color: white;
+	width: 150px;
+	height: 50px;
+	display: block;
+}
+.lunbo{
+	width: 1899px;
+	height: 1079px;
+	overflow: hidden;
+	position: relative;
+	top: -100px;
+}
+.lunbo_1{
+	width: 6000px;
+	height: 1079px;
+}
+.lunbo_1 img{
+	float: left;
+}
+.ppp{
+	font-size: 58px;
+	margin-top: -750px;
+	margin-left: 750px;
+	color: white;
+	float: left;
+}
+.ppp1{
+	font-size: 30px;
+	margin-top: -420px;
+	margin-left: 680px;
+	color: white;
+	float: left;
+}
+.biao{
+	margin-top: -640px;
+	margin-left: 550px;
+	float: left;
+}
+.but_1{
+	width: 180px;
+	height: 50px;
+	margin-top: -290px;
+	margin-left: 850px;
+	background-color: transparent;
+	border: 1px solid #f54581;
+	color: #f54581;
+	float: left;
+	font-size: 16px;
+	cursor: pointer;
+}
+.div_center{
+	width: 1899px;
+	height: 850px;
+	background-color: #1f181f;
+	margin-top: -100px;
+}
+.center_top{
+	width: 1200px;
+	height:90px;
+	border-bottom: 1px dashed #a43254;
+	color: white;
+	position: relative;
+	top: 25px;
+	color:#962446;
+}
+.nanniu{
+	width: 1899px;
+	height: 100px;
+	text-align: center;
+	margin-top: 60px;
+}
+.nanniu button{
+	width: 120px;
+	height: 40px;
+	color: white;
+	background-color: #1f181f;
+	border: 1px solid #f54581;
+	margin-left: 30px;
+	cursor: pointer;
+}
+.nanniu button:hover{
+	background-color: #f54581;
+}
+.imgs{
+	width: 1250px;
+	height: 500px;
+}
+.imgs div{
+	width: 230px;
+	height: 240px;
+	float: left;
+	border: 1px solid white;
+	text-align: center;
+	margin-left: 10px;
+	margin-top: 10px;
+	font-size: 13px;
+	color: white;
+	cursor: pointer;
+}
+.imgs div:hover{
+	border: 1px solid #f54581;
+}
+.imgs img{
+	width: 180px;
+	height: 190px;
+	padding-top: 20px;
+}
+.zuihou{
+	width: 1899px;
+	height: 100px;
+	text-align: center;
+	background-color: #150f13;
+	color: white;
+}
+.zuihou a{
+	color: white;
+	font-size: 13px;
+	line-height: 100px;
+}
+.zuihou a:hover{
+	color: red;
+	text-decoration: underline;
+}

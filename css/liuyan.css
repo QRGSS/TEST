@@ -1,0 +1,180 @@
+*{
+	margin: 0 auto;
+}
+a{
+	text-decoration: none;
+}
+.div_top{
+	width: 1899px;
+	height: 100px;
+	background-color: black;
+	opacity: 0.5;
+	position: relative;
+	top: 0px;
+	z-index: 10;
+}
+.div_top2{
+	width: 1899px;
+	height: 100px;
+	margin-top: -100px;
+	position: relative;
+	top: 0px;
+	z-index: 11;
+}
+.img_top{
+	margin-left: 250px;
+	margin-top: 15px;
+	float: left;
+}
+.p_1{
+	color: white;
+	float: left;
+	margin-top: 30px;
+	margin-left: 50px;
+}
+.p_2{
+	color: white;
+	float: left;
+	margin-top: 30px;
+	margin-left: -112px;
+}
+.top_ul{
+	margin-left: 150px;
+	float: left;
+}
+.top_ul li{
+	list-style: none;
+	width: 150px;
+	height: 50px;
+	display: block;
+	float: left;
+	text-align: center;
+	line-height: 50px;
+}
+.top_ul li a{
+	color: white;
+	width: 150px;
+	height: 50px;
+	display: block;
+}
+.lunbo{
+	width: 1899px;
+	height: 1079px;
+	overflow: hidden;
+	position: relative;
+	top: -100px;
+}
+.lunbo_1{
+	width: 6000px;
+	height: 1079px;
+}
+.lunbo_1 img{
+	float: left;
+}
+.ppp{
+	font-size: 58px;
+	margin-top: -750px;
+	margin-left: 750px;
+	color: white;
+	float: left;
+}
+.ppp1{
+	font-size: 30px;
+	margin-top: -420px;
+	margin-left: 680px;
+	color: white;
+	float: left;
+}
+.biao{
+	margin-top: -640px;
+	margin-left: 550px;
+	float: left;
+}
+.but_1{
+	width: 180px;
+	height: 50px;
+	margin-top: -290px;
+	margin-left: 850px;
+	background-color: transparent;
+	border: 1px solid #f54581;
+	color: #f54581;
+	float: left;
+	font-size: 16px;
+	cursor: pointer;
+}
+.dianji{
+	margin-top: -100px;
+}
+.center_top{
+	width: 1200px;
+	height:90px;
+	border-bottom: 1px dashed #a43254;
+	color: white;
+	position: relative;
+	top: 25px;
+	color:#962446;
+}
+.div_center{
+	width: 1899px;
+	height: 700px;
+	background-color: #1f181f;
+}
+.liuyan{
+	width: 1200px;
+	height: 400px;
+	margin-top: 90px;
+}
+.tupian{
+	width: 600px;
+	height: 390px;
+	float: left;
+	overflow: hidden;
+}
+.tupian img{
+	width: 670px;
+	height: 400px;
+}
+.ipts{
+	width: 575px;
+	height: 375px;
+	float: left;
+	margin-left: 20px;
+	color: #92857c;
+	margin-top: 20px;
+}
+.ipts *{
+	margin-top: 10px;
+}
+.ipt_1{
+	width: 570px;
+	height: 30px;
+	border:1px dashed #7a787b;
+}
+.awd55{
+	width: 570px;
+	height: 120px;
+	border:1px dashed #7a787b;
+}
+.ipts button{
+	width: 200px;
+	height: 40px;
+	background-color: #c92b68;
+	color: white;
+	border:0;
+}
+.zuihou{
+	width: 1899px;
+	height: 100px;
+	text-align: center;
+	background-color: #150f13;
+	color: white;
+}
+.zuihou a{
+	color: white;
+	font-size: 13px;
+	line-height: 100px;
+}
+.zuihou a:hover{
+	color: red;
+	text-decoration: underline;
+}
